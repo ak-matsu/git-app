@@ -4,7 +4,6 @@
 
 テスト
 
-<<<<<<< Updated upstream
 test
 
 testです。
@@ -15,6 +14,4 @@ testdesu
 
 
 testdesuyooooooo
-
-=======
->>>>>>> Stashed changes
+aaaaaaa
